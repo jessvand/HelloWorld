@@ -1,0 +1,15 @@
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\bin\Debug\net8.0\HelloJess!.exe
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\bin\Debug\net8.0\HelloJess!.deps.json
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\bin\Debug\net8.0\HelloJess!.runtimeconfig.json
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\bin\Debug\net8.0\HelloJess!.dll
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\bin\Debug\net8.0\HelloJess!.pdb
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.AssemblyInfoInputs.cache
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.AssemblyInfo.cs
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.csproj.CoreCompileInputs.cache
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.sourcelink.json
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.dll
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\refint\HelloJess!.dll
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.pdb
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\HelloJess!.genruntimeconfig.cache
+C:\Users\jmvan\OneDrive\Desktop\repos\HelloWorld\HelloJess!\obj\Debug\net8.0\ref\HelloJess!.dll
